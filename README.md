@@ -32,8 +32,9 @@ In every single paragraph presented earlier, there is a pain point that faces a 
 – Bank Transfers
 – Cheque submission
 ##### Bill Payment and Donations
-– Pay bills through bank and 3rd party applications
-– Donate to charities
+– Pay bills through bank and 3rd party applications.
+– Donate to charities.
+
 You need to research how banks work and understand the different options offered to clients in banks. You can ask questions (in lectures, tutorials and on Piazza) to gather information alongside your own research. Course staff will act individually but they represent one client, so there may be conflicting requirements made by different individuals. It will be your task to come up with a complete and consistent set of requirements.
 BONUS: Make the system accessible to blind people. Consider what is required by all stakeholders for this to happen.
 ### Milestone 2
