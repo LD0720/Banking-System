@@ -17,24 +17,23 @@ The overarching theme of this project is to create an online banking system. Onl
 ### Milestone 1
 In every single paragraph presented earlier, there is a pain point that faces a user when trying to use an online banking system. These are only SOME of the pain points that might face a user. We would like to construct a software to help bank clients, bankers and other stakeholders with their own pain points. Milestone 1 will focus on Requirements Engineering. Requirements engineering is critical to the success or failure of any software project. The requirements should be documented, actionable, measurable, testable, traceable, related to identified software needs, and defined to a level of detail sufficient for system design. You are asked to define the requirements required to construct such a software covering at least the following modules with their corresponding main features:
 ##### Users and Information Management System
-– Customer on-boarding process
-– Opening a new account
-– Client-bank communication and announcements
+- Customer on-boarding process
+- Opening a new account
+- Client-bank communication and announcements
 ##### Credit Cards and Loans
-– Credit card application
-– Credit card(s) payment and history
-– Credit card Theft Management
-– Loan application
-– Loan payment
+- Credit card application
+- Credit card(s) payment and history
+- Credit card Theft Management
+- Loan application
+- Loan payment
 ##### Personal Financial Management
-– Account(s) details
-– Account(s) history and activity
-– Bank Transfers
-– Cheque submission
+- Account(s) details
+- Account(s) history and activity
+- Bank Transfers
+- Cheque submission
 ##### Bill Payment and Donations
-– Pay bills through bank and 3rd party applications.
-– Donate to charities.
-
+- Pay bills through bank and 3rd party applications.
+- Donate to charities.
 You need to research how banks work and understand the different options offered to clients in banks. You can ask questions (in lectures, tutorials and on Piazza) to gather information alongside your own research. Course staff will act individually but they represent one client, so there may be conflicting requirements made by different individuals. It will be your task to come up with a complete and consistent set of requirements.
 BONUS: Make the system accessible to blind people. Consider what is required by all stakeholders for this to happen.
 ### Milestone 2
