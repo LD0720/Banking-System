@@ -43,24 +43,23 @@ Milestone 3 will act as the prototype of your system, which you will be presenti
 You are free to use additional technologies as long as your entire system is presented properly. Failure to design parts of your system due to choosing complex front-end design technologies will result in losing grades. It is also important to understand that UI/UX evaluation is purely subjective and based on the opinion of your Product Manager.
 ## Objectives
 ### Milestone 1
-• Learn how to analyze a problem scenario.
-• Learn the process of RE and deriving requirements’ specifications.
-• Learn to research the whole scope of a given task using any relevant content. For example, text book(s), Doctors, TAs, and online resources (like Product Backlog Example, etc.).
+- Learn how to analyze a problem scenario.
+- Learn the process of RE and deriving requirements’ specifications.
+- Learn to research the whole scope of a given task using any relevant content. For example, text book(s), Doctors, TAs, and online resources (like Product Backlog Example, etc.).
 ### Milestone 2
-• Learn how to translate a set of requirements into class diagrams and ERDs.
-• Understand the different uses of Design Patterns in a system.
+- Learn how to translate a set of requirements into class diagrams and ERDs.
+- Understand the different uses of Design Patterns in a system.
 ### Milestone 3
-• Learn how to use HTML, CSS and JavaScript to create a simple FE design.
-• Collaborate together as a team on the same repository.
-• Follow and implement the UI/UX rules taken in the lectures and tutorials.
+- Learn how to use HTML, CSS and JavaScript to create a simple FE design.
+- Collaborate together as a team on the same repository.
+- Follow and implement the UI/UX rules taken in the lectures and tutorials.
 ## Deliverables
 ### Milestone 1
 In Milestone 1, you are required to submit a sheet consisting of well written user stories
 that covers the following:
 1. All stakeholders of the system.
 2. All functional requirements as user stories.
-3. All Non-Functional requirements of the system. For each one you must highlight
-if it maps directly to other functional requirements. In case it does, then point these functional requirements out. Otherwise, provide a criteria on how to verify/measure it.
+3. All Non-Functional requirements of the system. For each one you must highlight if it maps directly to other functional requirements. In case it does, then point these functional requirements out. Otherwise, provide a criteria on how to verify/measure it.
 4. You must specify which of the functional and non-functional requirements will be on the mobile app, on the online banking website or on both.
 5. Open ended questions. You are required to find answers to all the open-ended questions that will arise when thinking about the intricacies of the project. Your answers must be reflected in either functional or non-functional requirements.
 Some of those questions are as follows:
@@ -75,16 +74,16 @@ N.B. The requirements sheet must follow the specification outlined in the excel 
 Note that in the template, there are examples of functional and non-functional requirements to show you the format of how to write requirements and are not related to your project.
 ### Milestone 2
 In Milestone 2, you are required to submit the following FOUR deliverables for the online banking website:
-• A components diagram that shows how the different modules in your system will interact.
-• The class diagram of your entire online banking system.
-• The entity relationship diagram (ERD) of the database that will be used in your online banking system.
-• The schema of the database that will be used in your online banking system.
+- A components diagram that shows how the different modules in your system will interact.
+- The class diagram of your entire online banking system.
+- The entity relationship diagram (ERD) of the database that will be used in your online banking system.
+- The schema of the database that will be used in your online banking system.
 ### Milestone 3
 In Milestone 3, you are required to design and implement ONLY the front-end of the Online Banking Website using HTML, CSS and JavaScript. You may use dummy data to represent any data that would otherwise be retrieved from a database.
-• You must make sure your entire project is on the GitHub repositories created for your teams.
-• Too many similarities between FE designs will be considered a cheating case and will result in a ZERO for the entire Milestone.
-• You must not use an existing bank’s logo, you are designing your own system so you should create your own logo. You can use any tool/website for the creation of your logo (there are a lot of free online tools).
-• You must submit a video (via Google drive or YouTube link) with voice-over, explaining the project that is not less than 5 minutes and not more than 10 minutes. It should be a demo of your application showcasing the different features, the implemented journeys and commenting on the experience whenever necessary.
+- You must make sure your entire project is on the GitHub repositories created for your teams.
+- Too many similarities between FE designs will be considered a cheating case and will result in a ZERO for the entire Milestone.
+- You must not use an existing bank’s logo, you are designing your own system so you should create your own logo. You can use any tool/website for the creation of your logo (there are a lot of free online tools).
+- You must submit a video (via Google drive or YouTube link) with voice-over, explaining the project that is not less than 5 minutes and not more than 10 minutes. It should be a demo of your application showcasing the different features, the implemented journeys and commenting on the experience whenever necessary.
 
 ## Grading Criteria
 ### Milestone 1
@@ -101,7 +100,7 @@ The grading of this assignment will be broken down alongside the previously ment
 - Accuracy (clarity, precision and completeness of the specification)
 - Presentation (organization and consistency of the document)
 - Composition (format, spelling and usage of English)
-6.2 Milestone 2
+### Milestone 2
 The grading of Milestone 2 will be based on the following criteria:
 - You must submit a PDF of your components diagram.
 - You must a PDF of your class diagram for your entire system.
